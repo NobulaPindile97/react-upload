@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NobulaPindile97/react-upload.git/static/css/main.fef7c17e.css",
+    "main.js": "/NobulaPindile97/react-upload.git/static/js/main.d4a416ee.js",
+    "index.html": "/NobulaPindile97/react-upload.git/index.html",
+    "main.fef7c17e.css.map": "/NobulaPindile97/react-upload.git/static/css/main.fef7c17e.css.map",
+    "main.d4a416ee.js.map": "/NobulaPindile97/react-upload.git/static/js/main.d4a416ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef7c17e.css",
+    "static/js/main.d4a416ee.js"
+  ]
+}
